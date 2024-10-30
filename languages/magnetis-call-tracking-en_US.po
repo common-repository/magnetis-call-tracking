@@ -1,0 +1,63 @@
+# Copyright (C) 2024 Magnetis
+# This file is distributed under the same license as the MAGNETIS Call-tracking plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MAGNETIS Call-tracking 7.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magnetis-call-"
+"tracking\n"
+"POT-Creation-Date: 2024-04-19T14:47:46+00:00\n"
+"PO-Revision-Date: 2024-04-19 17:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: magnetis-call-tracking\n"
+
+#. Plugin Name of the plugin
+#: C:\laragon\www\wordpress-6.5.2\wp-content\plugins\magnetis-call-tracking\magnetis.php
+msgid "MAGNETIS Call-tracking"
+msgstr "MAGNETIS Call-tracking"
+
+#. Plugin URI of the plugin
+#: C:\laragon\www\wordpress-6.5.2\wp-content\plugins\magnetis-call-tracking\magnetis.php
+msgid "https://www.magnetis.fr/call-tracking-wordpress"
+msgstr "https://www.magnetis.fr/call-tracking-wordpress"
+
+#. Description of the plugin
+#: C:\laragon\www\wordpress-6.5.2\wp-content\plugins\magnetis-call-tracking\magnetis.php
+msgid ""
+"Analysez l'origine de vos appels entrants avec le Call-tracking Magnétis. "
+"Déterminez quels canaux vous génèrent le plus d’appels et optimisez votre "
+"budget de communication. L'extension de Call-Tracking Magnétis intègre vos "
+"numéros trackés directement dans votre site Wordpress. Retrouvez ensuite vos "
+"statistiques d'attribution dans votre interface de call-tracking Magnetis."
+msgstr ""
+"Analyze the origin of your incoming calls with Magnetis Call-tracking. "
+"Determine which channels generate the most calls and optimize your "
+"communication budget. The Magnetis Call-Tracking extension integrates your "
+"tracked numbers directly into your Wordpress website."
+
+#. Author of the plugin
+#: C:\laragon\www\wordpress-6.5.2\wp-content\plugins\magnetis-call-tracking\magnetis.php
+msgid "Magnetis"
+msgstr "Magnetis"
+
+#. Author URI of the plugin
+#: C:\laragon\www\wordpress-6.5.2\wp-content\plugins\magnetis-call-tracking\magnetis.php
+msgid "https://www.magnetis.fr"
+msgstr "https://www.magnetis.fr"
+
+#: src/Features/MagnetisModule.php:79
+msgid "Paramètre du module de call-tracking Magnetis"
+msgstr "Magnetis call-tracking module settings"
+
+#: src/Features/MagnetisModule.php:80
+msgid "Entrez vos informations"
+msgstr "Informations"
+
+#: src/Features/MagnetisModule.php:86
+msgid "Paramètres"
+msgstr "Settings"

@@ -1,0 +1,16 @@
+{
+  "name": "magnetis/wordpress-plugin",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Magnetis\\": "src/"
+    }
+  },
+  "config": {
+    "vendor-dir": "lib"
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.4|^8.0"
+  }
+}
